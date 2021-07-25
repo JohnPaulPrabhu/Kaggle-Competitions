@@ -1,2 +1,2 @@
 #Oil Spill Detection classification
-Link for the dataset <ref>https://www.kaggle.com/damingo1/spill-data</ref>
+[Link](https://www.kaggle.com/damingo1/spill-data) for the dataset
